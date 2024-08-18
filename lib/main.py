@@ -86,3 +86,10 @@ def main():
 
         print(err, file=sys.stderr)
         sys.exit(1)
+        $ apt install -y git python
+
+$ git clone https://github.com/TrollSkull/SMSBOX
+
+$ cd SMSBOX
+
+$ python smsbox.py
